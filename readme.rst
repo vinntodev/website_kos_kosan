@@ -1,2 +1,3 @@
 Website Kos-kosan berbasis Notifikasi Telegram
-![image](https://github.com/vinntodev/website_kos_kosan/blob/be05e122f6871bee3b5971a407e99cefd330826e/screenshot.png)
+
+![image](https://github.com/vinntodev/website_kos_kosan/blob/60511bc0d34cd3fcbd9be1fcf60e03508b335026/screenshot.png)
